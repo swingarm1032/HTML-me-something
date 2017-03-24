@@ -1,0 +1,25 @@
+
+body {
+    background-color: #66ffff;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-family: "Freestyle Script";
+    font-size:  60px;
+
+}
+
+p {
+    text-align: center;
+    font-family: "Courier New"
+    font-size: 18px;
+}
+img {
+  background-color: #32ffff;
+  display: block;
+  margin: auto;
+  
+
+}
