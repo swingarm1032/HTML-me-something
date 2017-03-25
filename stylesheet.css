@@ -7,19 +7,32 @@ h1 {
     color: black;
     text-align: center;
     font-family: "Freestyle Script";
-    font-size:  60px;
+    font-size:  84px;
 
 }
 
 p {
     text-align: center;
-    font-family: "Courier New"
+    font-family: "Courier New";
     font-size: 18px;
 }
 img {
-  background-color: #32ffff;
+  background-color: #66ffff;
   display: block;
   margin: auto;
-  
-
+  border-style: outset;
+  border-radius: 48px;
+  border-width: 20px;
+  border-color: #00f3f6;
+}
+#Name1 {
+  border-style: outset;
+  border-radius: 36px;
+  border-width: 5px;
+  border-color: #54d2d2;
+}
+.FootNotes {
+  font-family: "Impact"; 
+  font-size: 14px;
+  font-stretch: condensed;
 }
